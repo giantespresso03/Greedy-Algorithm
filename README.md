@@ -9,10 +9,10 @@
 - If there's a married couple, married couple always go together
 - If there's a leftover person after assigning everyone to a full group, then the leftover person will be added to the last full group
 
-### Description:
+### Project Description:
   In terms of coding language, we decided to use Jave due to its flexibility with libraries and our familiarity with C++'s syntax. For example, thanks to the utilization of libraries, forming a graph in Java was relatively easier due to the fact that we were able to use a library called ***'JGraphT'*** and it was a matter of calling few functions to create, and connect the nodes with the edges. Additionally, animating the graph was very straightforward as well as we used the library called ***'GraphStream'*** which helped us visually represent nodes and edges on a separate tab.
 
-### Requirements:
+### Project Requirements:
   We installed and used ***GraphStream*** library through ***Maven*** for this program. For a reference, the artifact is ***org.graphstream:***. For a manual installation of the ***GraphStream*** library, we have also included a file called gs-core1.3.jar as well.
 
 ### User Manual
